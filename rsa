@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 #is a challenge
 check_factor()
 {
